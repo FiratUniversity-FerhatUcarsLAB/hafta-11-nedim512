@@ -1,6 +1,9 @@
+/*
+250541621
+nedim isa
+03.12.2025
+*/
 public class Exercise4_2 {
-
-  // Her satirin sonuna calisma sirasi yorumlarini ekleyin.
 
     public static void main(String[] args) {
         zippo("rattle", 13);
@@ -17,7 +20,7 @@ public class Exercise4_2 {
         } else {
             System.out.println("ik");
             baffle(quince);
-            System.out.println("boo-wa-ha-ha");
+            System.out.println("bo-wa-ha-ha");
         }
     }
 }
