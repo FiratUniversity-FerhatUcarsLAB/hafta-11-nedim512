@@ -1,5 +1,9 @@
+/*
+250541621
+nedim isa
+03.12.2025
+*/
 public class Exercise4_5 {
-
     public static void zoop(String fred, int bob) {
         System.out.println(fred);
         if (bob == 5) {
@@ -12,7 +16,7 @@ public class Exercise4_5 {
     public static void main(String[] args) {
         int bizz = 5;
         int buzz = 2;
-        zoop("just for", bizz);
+        zoop("just for ", bizz);
         clink(2 * buzz);
     }
 
