@@ -1,3 +1,8 @@
+/*
+250541621
+nedim isa
+03.12.2025
+*/
 public class Exercise4_3 {
 
     public static void zoop() {
@@ -14,7 +19,7 @@ public class Exercise4_3 {
     }
 
     public static void baffle() {
-        System.out.print("wug");
+        System.out.print("wuga");
         ping();
     }
 
